@@ -1,0 +1,32 @@
+
+.seccionTitulo {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black; 
+    background: rgb(65, 126, 177);
+}
+
+.seccionA {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black; 
+    background: rgb(255, 255, 255);
+}
+
+.seccionB {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black; 
+    background: rgb(193, 238, 206);
+}
+
+.seccionC {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black; 
+    background: rgb(228, 149, 149);
+}
+
+.h1 {
+    font-size: 40px;
+}
